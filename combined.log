@@ -1,0 +1,65 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:09:58.873Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:12:44.324Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:14:01.813Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:14:03.599Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:14:49.588Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:15:51.482Z"}
+{"height":"1080","level":"info","message":"Received request with query params:","timestamp":"2024-12-13T14:16:38.157Z","url":"https://pulseslabs.com/","width":"1920"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:16:38.158Z"}
+{"level":"info","message":"Normalized URL:","timestamp":"2024-12-13T14:16:38.158Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:17:54.543Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:18:57.952Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:25:30.749Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:25:30.750Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:25:30.750Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:25:30.751Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:27:41.795Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:27:41.796Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:27:41.796Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:27:41.797Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:27:43.512Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:27:43.512Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:27:43.513Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:27:43.513Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:27:54.523Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:27:54.523Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:27:54.524Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:27:54.524Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:28:41.675Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:28:41.675Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:28:41.676Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:28:41.676Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:29:15.660Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:29:17.299Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:30:21.364Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:30:27.108Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:30:54.944Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:30:54.944Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:30:54.945Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:30:54.945Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:32:19.966Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:32:19.967Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:32:19.967Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:34:05.181Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:34:05.182Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:34:05.182Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:35:05.077Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:36:01.709Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:37:07.960Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:37:10.071Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:37:16.843Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:37:42.357Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:37:42.358Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:37:42.358Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:37:42.358Z"}
+{"level":"info","message":"Processing URL:","timestamp":"2024-12-13T14:38:03.467Z"}
+{"level":"info","message":"Incoming URL:","timestamp":"2024-12-13T14:38:03.468Z"}
+{"level":"info","message":"Added protocol:","timestamp":"2024-12-13T14:38:03.468Z"}
+{"level":"info","message":"Valid URL:","timestamp":"2024-12-13T14:38:03.468Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:38:54.626Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:38:57.719Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:38:59.218Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:39:43.464Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:39:45.312Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:39:48.432Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-12-13T14:39:49.625Z"}
